@@ -1,0 +1,29 @@
+.App {
+  text-align:center;
+  color:black;
+  background: hexe;
+}
+h1{
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  color:black;
+  /*text-decoration-line: underline;*/
+  text-decoration-color:;
+}
+.header{
+  background:blue;
+}
+body{
+  /* background-color:#42f4bf; */
+  background-image: linear-gradient(to right, red , rgb(226, 226, 33));
+
+}
+input{
+  width: 200px;
+  height: 34px;
+}
+button{
+  height: 37px;
+  width: 100px;
+}
